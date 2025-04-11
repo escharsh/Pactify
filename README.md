@@ -1,7 +1,5 @@
 # Pactify - Smart Contract Generation System
 
-![Pactify Interface](./public/frontpage.png)
-
 Pactify is a web application for generating professional contracts and documents with ease. The system supports multiple contract types including job contracts, freelancer agreements, rental contracts, and offer letters.
 
 ## Features
@@ -18,6 +16,24 @@ Pactify is a web application for generating professional contracts and documents
 2. Freelancer Contract  
 3. Rental Contract
 4. Offer Letter
+
+## Images
+
+### Home Page
+
+![Pactify Interface](./public/frontpage.png)
+
+### Products
+
+![Pactify Interface](./public/products.png)
+
+### Final Output
+
+![Pactify Interface](./public/finaloutput.png)
+
+### Contract Review
+
+![Pactify Interface](./public/contractpreview.png)
 
 ## Installation
 
